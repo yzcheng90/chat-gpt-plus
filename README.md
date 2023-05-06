@@ -22,6 +22,8 @@
 
 系统管理、日志管理、运营管理、分销管理、OpenAI管理、用户管理、角色管理、菜单管理、个人中心、操作日、登录日志、APK版本管理、参数管理、接口文档、代码生成、套餐管理、微信支付信息、订单管理、OpenAI 使用记录、卡密管理、用户分享记录、用户签到记录、团队管理、Key池管理、代理池管理、模型管理、意见管理、提现管理。
 
+<img src="https://cdn.andyeason.cn/ai/8.png"  width="80%" height="50%" alt="图片名称" align=center>
+
 ## 在线体验
 
 https://www.lifee.net/h5
@@ -43,4 +45,4 @@ https://www.lifee.net/h5
 <img src="https://cdn.andyeason.cn/ai/6.jpg"  width="30%" height="60%" alt="图片名称" align=center>
 <img src="https://cdn.andyeason.cn/ai/7.jpg"  width="30%" height="60%" alt="图片名称" align=center>
 <img src="https://cdn.andyeason.cn/ai/11.jpg"  width="30%" height="60%" alt="图片名称" align=center>
-<img src="https://cdn.andyeason.cn/ai/8.png"  width="80%" height="50%" alt="图片名称" align=center>
+
