@@ -27,14 +27,15 @@
 https://www.lifee.net/h5
 
 ## 进群免费使用
-![微信](https://cdn.andyeason.cn/ai/10.jpg)
 
+<img src="https://cdn.andyeason.cn/ai/10.jpg" style="zoom:20%" alt="图片名称" align=center>
 
 ## 项目说明
 
 本项目不开源，需要源码的请联系VX：yzcheng90，QQ：913624256
 
 ## 系统截图
+<img src="https://cdn.andyeason.cn/ai/1.jpg" style="zoom:20%" alt="图片名称" align=center>
 ![chat-gpt-plus](https://cdn.andyeason.cn/ai/1.jpg)
 ![chat-gpt-plus](https://cdn.andyeason.cn/ai/2.jpg)
 ![chat-gpt-plus](https://cdn.andyeason.cn/ai/3.jpg)
