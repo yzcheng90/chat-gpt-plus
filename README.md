@@ -24,9 +24,10 @@
 
 <img src="https://cdn.andyeason.cn/ai/8.png"  width="80%" height="50%" alt="图片名称" align=center>
 
-## 在线体验
+## H5在线体验
 
-https://www.lifee.net/h5
+<img src="https://cdn.andyeason.cn/ai/0.png" width="30%" height="50%"  alt="图片名称" align=center>
+> H5扫码体验
 
 ## 进群免费使用
 
