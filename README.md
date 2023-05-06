@@ -35,7 +35,7 @@ https://www.lifee.net/h5
 本项目不开源，需要源码的请联系VX：yzcheng90，QQ：913624256
 
 ## 系统截图
-<img src="https://cdn.andyeason.cn/ai/1.jpg" style="zoom:20%" alt="图片名称" align=center>
+<img src="https://cdn.andyeason.cn/ai/1.jpg"  width="20%" height="50%" alt="图片名称" align=center>
 ![chat-gpt-plus](https://cdn.andyeason.cn/ai/1.jpg)
 ![chat-gpt-plus](https://cdn.andyeason.cn/ai/2.jpg)
 ![chat-gpt-plus](https://cdn.andyeason.cn/ai/3.jpg)
