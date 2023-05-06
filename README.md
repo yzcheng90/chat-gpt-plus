@@ -28,7 +28,7 @@ https://www.lifee.net/h5
 
 ## 进群免费使用
 
-<img src="https://cdn.andyeason.cn/ai/10.jpg" style="zoom:20%" alt="图片名称" align=center>
+<img src="https://cdn.andyeason.cn/ai/10.jpg" width="20%" height="50%"  alt="图片名称" align=center>
 
 ## 项目说明
 
