@@ -27,12 +27,20 @@
 https://www.lifee.net/h5
 
 ## 进群免费使用
-
+![微信](https://cdn.andyeason.cn/ai/10.jpg)
 
 
 ## 项目说明
 
-本项目不开源，需要源码的请联系VX：yzcheng90
+本项目不开源，需要源码的请联系VX：yzcheng90，QQ：913624256
 
 ## 系统截图
-
+![chat-gpt-plus](https://cdn.andyeason.cn/ai/1.jpg)
+![chat-gpt-plus](https://cdn.andyeason.cn/ai/2.jpg)
+![chat-gpt-plus](https://cdn.andyeason.cn/ai/3.jpg)
+![chat-gpt-plus](https://cdn.andyeason.cn/ai/4.jpg)
+![chat-gpt-plus](https://cdn.andyeason.cn/ai/5.jpg)
+![chat-gpt-plus](https://cdn.andyeason.cn/ai/6.jpg)
+![chat-gpt-plus](https://cdn.andyeason.cn/ai/7.jpg)
+![chat-gpt-plus](https://cdn.andyeason.cn/ai/11.jpg)
+![chat-gpt-plus](https://cdn.andyeason.cn/ai/8.jpg)
