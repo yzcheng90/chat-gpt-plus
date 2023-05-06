@@ -43,4 +43,4 @@ https://www.lifee.net/h5
 <img src="https://cdn.andyeason.cn/ai/6.jpg"  width="30%" height="60%" alt="图片名称" align=center>
 <img src="https://cdn.andyeason.cn/ai/7.jpg"  width="30%" height="60%" alt="图片名称" align=center>
 <img src="https://cdn.andyeason.cn/ai/11.jpg"  width="30%" height="60%" alt="图片名称" align=center>
-<img src="https://cdn.andyeason.cn/ai/8.jpg"  width="80%" height="50%" alt="图片名称" align=center>
+<img src="https://cdn.andyeason.cn/ai/8.png"  width="80%" height="50%" alt="图片名称" align=center>
